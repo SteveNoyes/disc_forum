@@ -1,8 +1,8 @@
 <?php
 // Database connection
-$host = 'localhost';
+$host = '';
 $dbname = 'discussion_forum';
-$username = 'root';
+$username = '';
 $password = '';
 
 try {
